@@ -26,9 +26,13 @@ cd social-distancing-detector
 pip install -r requirements.txt
 python app.py
 
-📸 Output
-👉 Output 
+## 📸 Output
 
+### ✅ Safe Distance
+![output 1](p1.png)
+
+### ❌ Violation
+![output 2](p2.png)
 
 📁 Project Structure
 app.py → Main execution file
